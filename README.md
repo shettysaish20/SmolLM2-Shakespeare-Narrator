@@ -2,6 +2,8 @@
 
 This document outlines the process of training and performing inference with the SmolLM2-135M language model.  SmolLM2-135M is a causal language model based on the Llama architecture.
 
+Try out the model here: [HF Spaces - Shakespeare SmolLM2 Narrator](https://huggingface.co/spaces/saish-shetty/Shakespeare-smolLM2-narrator)
+
 ## 1. Model Definition
 
 The SmolLM2-135M model is defined using the `LlamaConfig` class from the `transformers` library.  This allows us to specify the model's architecture using a configuration dictionary, mirroring the parameters found in the `config_smollm2_135M.yaml` file (as described in the original assignment).
