@@ -91,4 +91,4 @@ After loading the model from the checkpoint, you can use it to generate text.
 
 ## 8. Logs
 
-![Inferencing picture](/SmolLM2-Shakespeare-Narrator/gradio_app/app.png)
+![Inferencing picture](/gradio_app/app.png)
